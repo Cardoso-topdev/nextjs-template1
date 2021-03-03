@@ -11,7 +11,7 @@
 
 A free Next.js TypeScript landing page template for SaaS products, online services and more.
 
-<a href="https://next-startd.vercel.app">Live demo</a>
+<a href="https://nextjs-template1.vercel.app">Live demo</a>
 
 - ⚡ **Next.js** — The React Framework
 - 🔥 **next-seo** — Manage SEO easily
@@ -27,7 +27,7 @@ A free Next.js TypeScript landing page template for SaaS products, online servic
 
 ## 🚀 Getting started
 
-If you're logged in, easiest way to get started is to [click here](https://github.com/jkytoela/next-startd/generate).
+If you're logged in, easiest way to get started is to [click here](https://github.com/Cardoso-topdev/nextjs-template1/generate).
 
 Run the following commands inside the project folder:
 
@@ -44,7 +44,7 @@ To view the project open `http://localhost:3000`
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 
-Consider contributing to the original TypeScript Starter, which you can find [here](https://github.com/jpedroschmitz).
+Consider contributing to the original TypeScript Starter, which you can find [here](https://github.com/Cardoso-topdev).
 
 **After your pull request is merged**, you can safely delete your branch.
 
